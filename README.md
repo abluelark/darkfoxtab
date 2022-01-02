@@ -7,3 +7,7 @@ Simply download the contents of this github repository, and place in your `chrom
 
 #### Locating your current profile folder
 Open Firefox -> Menu > Help > More Troubleshooting Information -> Open Profile Folder.
+
+
+#### Installing on a tiling window manager?
+Comment out lines 47-54 in userChrome.css
